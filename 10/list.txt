@@ -1,0 +1,2 @@
+Studijní materiál k seznamům:
+https://naucse.python.cz/lessons/beginners/list/
